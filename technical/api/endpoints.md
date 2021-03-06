@@ -14,3 +14,8 @@
         board: array[][]
     }
 }
+
+# To Consider
+
+01. This endpoint should also recieve the level of the game or the custom parameters
+
