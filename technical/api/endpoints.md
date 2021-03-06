@@ -19,3 +19,5 @@
 
 01. This endpoint should also recieve the level of the game or the custom parameters
 
+# To Consider Globally
+* Add Swagger configuration for documenting the API
