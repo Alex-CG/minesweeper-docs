@@ -12,3 +12,15 @@ Minesweeper Core API will handle all the game logic and serve it as endpoints to
     - Dependency manager:   Gradle
 * Link
   https://github.com/Alex-CG/minesweeper-core-api
+
+# UI
+Minesweeper UI will be the place to play the game
+* Details
+    - Project type:         Single Page Application (Possibly PWA)
+* Tech stack
+    - Programming language: Typescript
+    - Base framework:       Angular 10/11
+    - Packahe manager:      NPM
+    - Others:               Tailwind 2
+* Link
+  https://github.com/Alex-CG/minesweeper-ui
