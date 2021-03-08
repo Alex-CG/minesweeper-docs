@@ -1,13 +1,13 @@
 # Endpoints:
 
 [DONE]
-01. POST      {endpoint-url}/v1/game/new
-02. PATCH     {endpoint-url}/v1/game/{id}/flag/{x}/{y}  (flag -> question mark -> unflag)
-03. PATCH     {endpoint-url}/v1/game/{id}/reveal/{x}/{y}
+01. POST      {endpoint-url}/ms-api/games
+02. PATCH     {endpoint-url}/ms-api/games/{id}/flag/{x}/{y}  (flag -> question mark -> unflag)
+03. PATCH     {endpoint-url}/ms-api/games/{id}/reveal/{x}/{y}
 
 [TODO]
-04. POST      {endpoint-url}/v1/game/{id}/save
-05. GET       {endpoint-url}/v1/game/{id}/resume
+04. POST      {endpoint-url}/ms-api/games/{id}/save
+05. GET       {endpoint-url}/ms-api/games/{id}/resume
 
 # Endpoints Response:
 
